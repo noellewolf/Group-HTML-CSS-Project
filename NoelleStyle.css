@@ -1,0 +1,43 @@
+body {
+	background: rgb(178,194,191);
+background: linear-gradient(90deg, rgba(178,194,191,1) 24%, rgba(192,222,217,1) 75%);
+	border: 20px groove #eaece5;
+	outline: 10px solid black;
+}
+
+.center {
+  text-align: center;
+  font-size: 25px;
+  text-shadow: 2px 2px #eaece5;
+  color: #3b3a30;
+}
+
+.noelle-table {
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid;
+}
+table, th, td {
+	border:  1px solid;
+}
+p {
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	border: 3px solid;
+	border-color: black;
+}
+	
+.list {
+	text-align: center;
+}
+.image {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 400px;
+  width: 300px;
+  border: 10px groove #eaece5;
+}
