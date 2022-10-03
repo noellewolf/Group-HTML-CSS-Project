@@ -1,6 +1,6 @@
 body {
 	background: rgb(178,194,191);
-background: linear-gradient(90deg, rgba(178,194,191,1) 24%, rgba(192,222,217,1) 75%);
+	background: linear-gradient(90deg, rgba(178,194,191,1) 24%, rgba(192,222,217,1) 75%);
 	border: 20px groove #eaece5;
 	outline: 10px solid black;
 }
@@ -34,10 +34,10 @@ p {
 }
 .image {
 	display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  height: 400px;
-  width: 300px;
-  border: 10px groove #eaece5;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	height: 400px;
+	width: 300px;
+	border: 10px groove #eaece5;
 }
